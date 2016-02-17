@@ -1,4 +1,4 @@
-File1 <- read.csv("~/SkyDrive/NewExp11.BEta.03.30.14.csv")
+File1 <- read.csv("~/[...].csv")
 attach(File1)
 library(ggplot2)
 
