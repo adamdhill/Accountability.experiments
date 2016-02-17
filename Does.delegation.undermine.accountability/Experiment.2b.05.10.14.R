@@ -1,7 +1,7 @@
 #Issue here - the variables aren't the same length
 #Not going to make a graph for this one, anyway
 
-File3 <- read.csv("~/SkyDrive/Jan29.March2.March31.csv")
+File3 <- read.csv("~/[...].csv")
 attach(File3)
 library(ggplot2)
 
