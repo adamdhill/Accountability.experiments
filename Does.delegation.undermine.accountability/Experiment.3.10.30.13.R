@@ -1,4 +1,4 @@
-t.test <- read.csv("~/SkyDrive/Foundations/Canonical.data/t.test.csv")
+t.test <- read.csv("~/[...].csv")
 attach(t.test)
 library(ggplot2)
 
