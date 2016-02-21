@@ -1,4 +1,4 @@
-Exec.data <- read.csv("~/Skydrive/Foundations/Canonical.data/Exec.data.csv", quote="")
+Exec.data <- read.csv("~/[...].csv", quote="")
 View(Exec.data)
 attach(Exec.data)
 library(ggplot2)
